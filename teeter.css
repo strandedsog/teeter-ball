@@ -9,7 +9,7 @@ body {
   --ball-color: #f06449;
   --end-color: #7d82b8;
   --text-color: #210124;
-
+  font-weight: 900 !important;
   font-family: 'Montserrat', cursive !important;
   background-color: var(--background-color);
 }
